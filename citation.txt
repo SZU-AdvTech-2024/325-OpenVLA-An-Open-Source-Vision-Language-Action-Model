@@ -1,0 +1,6 @@
+@article{REPO325,
+    author = "Kim, {Moo Jin} and Pertsch, Karl and Karamcheti, Siddharth and Xiao, Ted and Balakrishna, Ashwin and Nair, Suraj and Rafailov, Rafael and Foster, Ethan and Lam, Grace and Sanketi, Pannag and Vuong, Quan and Kollar, Thomas and Burchfiel, Benjamin and Tedrake, Russ and Sadigh, Dorsa and Levine, Sergey and Liang, Percy and Finn, Chelsea",
+    journal = "arXiv preprint arXiv:2406.09246",
+    title = "{OpenVLA: An Open-Source Vision-Language-Action Model}",
+    year = "2024"
+}
