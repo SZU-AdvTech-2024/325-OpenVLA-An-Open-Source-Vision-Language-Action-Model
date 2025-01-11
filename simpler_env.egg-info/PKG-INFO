@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: simpler_env
+Version: 0.0.1
+Author: Xuanlin Li
+Requires-Python: >=3.10
+License-File: LICENSE
